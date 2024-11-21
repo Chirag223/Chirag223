@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Chirag 👋
 
 Welcome to my GitHub! I'm a passionate software developer currently pursuing my **MCA** (Master of Computer Applications) at Sankalchand Patel University. I have a strong background in various programming languages, including **ReactJS**, **Node.js**, **Java**, **Python**, and more.
 
